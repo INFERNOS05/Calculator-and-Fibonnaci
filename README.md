@@ -1,1 +1,2 @@
 # Calculator-and-Fibonnaci
+This Java program is a menu-driven calculator with three classes: UserInput for handling user inputs, Calculator for performing operations like addition, subtraction, multiplication, division, mean, mode, and Fibonacci calculations, and Main for coordinating the flow through an interactive menu. It processes user inputs, executes the chosen operation, and displays results, with built-in error handling and a clean exit option.
